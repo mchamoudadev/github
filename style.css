@@ -5,7 +5,8 @@
 }
 
 body {
-	background-color: aquamarine;
+	background-color: rgb(39, 94, 212);
+	color: aliceblue;
 }
 
 .container {
@@ -19,7 +20,7 @@ body {
 
 .text {
 	font-size: 28px;
-	background-color: beige;
+	background-color: rgb(2, 2, 2);
 	border: 4px solid #e21212;
 	border-radius: 10px;
 }
