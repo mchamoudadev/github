@@ -12,3 +12,14 @@ body {
 	width: min(90%, 1110px);
 	margin: auto;
 }
+
+.heading {
+	font-size: 100px;
+}
+
+.text {
+	font-size: 28px;
+	background-color: beige;
+	border: 4px solid #e21212;
+	border-radius: 10px;
+}
