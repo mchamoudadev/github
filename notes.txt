@@ -1,0 +1,5 @@
+*** swicth to a new branch and create if not exist
+git checkout -b dev
+
+*** current branch
+git branch
